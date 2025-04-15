@@ -21,7 +21,6 @@
 <br>
 -->
 
-
 ## Learning Path
 
 Lerning Path [Configure SIEM security operations using Microsoft Sentinel][LP]
